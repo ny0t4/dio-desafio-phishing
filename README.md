@@ -14,4 +14,4 @@ Método de ataque: Site Cloner
 A princípio a atividade solicitou a utilização do Facebook como clone, mas foi inviabilizado.
 Na imagem, a saída obtida utilizando a url http://www.instagram.com
 
-!([saidasdiophi.png](https://github.com/ny0t4/dio-desafio-phishing/blob/main/saidasdiophi.png))
+![saidasdiophi.png](https://github.com/ny0t4/dio-desafio-phishing/blob/main/saidasdiophi.png)
